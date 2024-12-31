@@ -1,0 +1,10 @@
+#root {
+  height: 100vh;
+  font-family: 'Golos Text', sans-serif;
+}
+
+.page {
+  height: 100%;
+  width: 100%;
+  background-color: #FFFFFF;
+}

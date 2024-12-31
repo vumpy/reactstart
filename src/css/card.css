@@ -1,0 +1,24 @@
+.card {
+    display: flex;
+    width: 18%;
+    height: 50%;
+    background-color: #FFFFFF;
+    border-radius: 20px;
+    margin-left: 5%;
+}
+
+.cardImg {
+    width: 40px;
+    height: 40px;
+    margin: auto 0;
+    margin-left: 3%;
+}
+
+.cardText {
+    margin: auto 0;
+    margin-left: 3%;
+    font-family: "Golos Text", serif;
+    color: #00457F;
+    font-weight: bold;
+    font-size: 18px;
+}
