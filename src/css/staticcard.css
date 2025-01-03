@@ -1,0 +1,21 @@
+.staticcard {
+    border-style: solid;
+    border-radius: 20px;
+    border-color: #DFE1E5;
+    height: 25%;
+}
+
+
+.small {
+    margin: 0;
+    margin-left: 5%;
+    margin-top: 3%;
+    color: #00457F;
+}
+
+.big {
+    margin: 0;
+    margin-left: 2.196%;
+    margin-top: 1.5%;
+    color: #00457F;
+}
